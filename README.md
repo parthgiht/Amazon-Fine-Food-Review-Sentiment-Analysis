@@ -11,7 +11,7 @@ This project implements sentiment analysis on the Amazon Fine Food Reviews datas
 
 ## Model Information
 
-### VADER (Valence Aware Dictionary and sEntiment Reasoner)
+### VADER (Valence Aware Dictionary and Sentiment Reasoner)
 - **Lexicon-based approach** using NLTK's pretrained sentiment lexicon
 - Analyzes text through rule-based scoring of individual words and phrases
 - Considers valence modifiers (intensifiers like "very", negations like "not")
